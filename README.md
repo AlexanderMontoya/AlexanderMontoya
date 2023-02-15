@@ -3,13 +3,21 @@
 
 
 ## 💫About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hola mi nombre completo es Alexander Josue Montoya Bonifacio soy de Lima, Perú
+Soy Desarrollador Web, me gusta desarrollar sitios web estaticos y dinamicos, soy un apasionado en la mejora y el aprendizaje continuo.
+Recien egresado de la carrera de computacion e informatica.
+Mi objetivo es crecer como profesional y desempeñar un papel importante en el desarrollo de grandes aplicaciones.
+### Estudios:
+Estudie la carrera de Computacion e Informatica en el [INSTITUTO SUPERIOR TECNOLOGICO - JOSE PARDO](https://www.jpardo.edu.pe/) donde pude aprender sobre el gran mundo de la programacion.
+Durante mi aprendizaje en el instituto realize Sitios Web y Aplicaciones basadas en lenguajes como HTML, CSS, Javascript, C#, Python, PHP y java.
+También soy competente en el uso de SQL y MySQL para el manejo de las Base de datos.
+Tambien aprendi sobre frameworks como Laravel y Bootstrap para desarrollar aplicaciones de una forma más rapida y ordenada.  
 ## 🛠 Habilidades Tecnicas
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ### Backend
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ### Base de Datos
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ### Librerias y Frameworks
