@@ -4,9 +4,9 @@
 
 ## 💫About Me:
 Hola mi nombre completo es Alexander Josue Montoya Bonifacio soy de Lima, Perú
-Soy Desarrollador Web, me gusta desarrollar sitios web estaticos y dinamicos, soy un apasionado en la mejora y el aprendizaje continuo.
-Recien egresado de la carrera de computacion e informatica.
-Mi objetivo es crecer como profesional y desempeñar un papel importante en el desarrollo de grandes aplicaciones.
+<br>Soy Desarrollador Web, me gusta desarrollar sitios web estaticos y dinamicos, soy un apasionado en la mejora y el aprendizaje continuo.
+<br>Recien egresado de la carrera de computacion e informatica.
+<br>Mi objetivo es crecer como profesional y desempeñar un papel importante en el desarrollo de grandes aplicaciones.
 ### Estudios:
 Estudie la carrera de Computacion e Informatica en el [INSTITUTO SUPERIOR TECNOLOGICO - JOSE PARDO](https://www.jpardo.edu.pe/) donde pude aprender sobre el gran mundo de la programacion.
 Durante mi aprendizaje en el instituto realize Sitios Web y Aplicaciones basadas en lenguajes como HTML, CSS, Javascript, C#, Python, PHP y java.
