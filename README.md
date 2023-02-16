@@ -11,7 +11,8 @@ Hola mi nombre completo es Alexander Josue Montoya Bonifacio soy de Lima, Perú
 Estudie la carrera de Computacion e Informatica en el [INSTITUTO SUPERIOR TECNOLOGICO - JOSE PARDO](https://www.jpardo.edu.pe/) donde pude aprender sobre el gran mundo de la programacion.
 Durante mi aprendizaje en el instituto realize Sitios Web y Aplicaciones basadas en lenguajes como HTML, CSS, Javascript, C#, Python, PHP y java.
 También soy competente en el uso de SQL y MySQL para el manejo de las Base de datos.
-Tambien aprendi sobre frameworks como Laravel y Bootstrap para desarrollar aplicaciones de una forma más rapida y ordenada.  
+Tambien aprendi sobre frameworks como Laravel y Bootstrap para desarrollar aplicaciones de una forma más rapida y ordenada.
+![Imagen Alexander Montoya programando](https://github.com/AlexanderMontoya/AlexanderMontoya/blob/main/AlexanderMontoyaEscritorio.jpeg)
 ## 🛠 Habilidades Tecnicas
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
