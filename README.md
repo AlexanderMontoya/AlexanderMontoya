@@ -32,7 +32,7 @@ Tambien aprendi sobre frameworks como Laravel y Bootstrap para desarrollar aplic
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMontoya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alexandermontoya.github.io/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://alexandermontoya.github.io/portafolio-personal)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-josué-montoya-bonifacio/)
 
 
