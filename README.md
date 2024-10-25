@@ -34,15 +34,15 @@ Todos mis proyectos : [Portafolio-personal](https://alexandermontoya.netlify.app
 
 Estos son mis 5 mejores proyectos
 - [Ecommerce Product Sneakers](https://ecommerce-product-233.web.app/productos)
-    [![Ecommerce Product Sneakers](https://alexandermontoya.github.io/projects/ecommerce-product/ecommerce-product-image-1.jpg)]
+    ![Ecommerce Product Sneakers](https://alexandermontoya.github.io/projects/ecommerce-product/ecommerce-product-image-1.jpg)
 - [OnMarket](https://github.com/AlexanderMontoya/onmarket)
-    [![OnMarket](https://alexandermontoya.github.io/projects/on-market/on-market-image-1.jpg)]
+    ![OnMarket](https://alexandermontoya.github.io/projects/on-market/on-market-image-1.jpg)
 - [ManGama-Chan](https://alexandermontoya.github.io/mangama-chan/)
-    [![ManGama-Chan](https://alexandermontoya.github.io/projects/mangama-chan.jpg)]
+    ![ManGama-Chan](https://alexandermontoya.github.io/projects/mangama-chan.jpg)
 - [PokeMontoya](https://alexandermontoya.github.io/pokemontoya/)
-    [![PokeMontoya](https://alexandermontoya.github.io/projects/pokemontoya/pokemontoya-image-1.JPG)]
+    ![PokeMontoya](https://alexandermontoya.github.io/projects/pokemontoya/pokemontoya-image-1.JPG)
 - [ChatBro](https://chatbro-2023.web.app/)
-    [![ChatBro](https://alexandermontoya.github.io/projects/chatbro/chatbro-image-2.JPG)]
+    ![ChatBro](https://alexandermontoya.github.io/projects/chatbro/chatbro-image-2.JPG)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlexanderMontoya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMontoya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
