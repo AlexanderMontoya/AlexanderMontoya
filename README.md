@@ -11,7 +11,7 @@ Hola mi nombre completo es Alexander Josue Montoya Bonifacio soy de Lima, Perú
 Estudie la carrera de Computacion e Informatica en el [INSTITUTO SUPERIOR TECNOLOGICO - JOSE PARDO](https://www.jpardo.edu.pe/) donde pude aprender sobre el gran mundo de la programacion.
 Durante mi aprendizaje en el instituto realize Sitios Web y Aplicaciones basadas en lenguajes como HTML, CSS, Javascript, C#, Python, PHP y java.
 También soy competente en el uso de SQL y MySQL para el manejo de las Base de datos.
-Tambien aprendi sobre frameworks como Laravel y Bootstrap para desarrollar aplicaciones de una forma más rapida y ordenada.
+Tambien aprendi sobre frameworks como Angular y Laravel para desarrollar aplicaciones de una forma más rapida y ordenada.
 ![Imagen Alexander Montoya programando](https://github.com/AlexanderMontoya/AlexanderMontoya/blob/main/AlexanderMontoyaEscritorio.jpeg)
 ## 🛠 Habilidades Tecnicas
 ### Frontend
@@ -30,17 +30,19 @@ Tambien aprendi sobre frameworks como Laravel y Bootstrap para desarrollar aplic
 ### Herramientas de diseño
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ## Mis Proyectos
-Estos son mis 5 mejores proyectos
-- [Portafolio-personal](https://alexandermontoya.github.io/portafolio-personal/)
+Todos mis proyectos : [Portafolio-personal](https://alexandermontoya.netlify.app/projects)
 
+Estos son mis 5 mejores proyectos
+- [Ecommerce Product Sneakers](https://ecommerce-product-233.web.app/productos)
+    [![Ecommerce Product Sneakers](https://alexandermontoya.github.io/projects/ecommerce-product/ecommerce-product-image-1.jpg)]
 - [OnMarket](https://github.com/AlexanderMontoya/onmarket)
-    [![OnMarket](https://alexandermontoya.github.io/portafolio-personal/img/OnMarket.jpg)](https://github.com/AlexanderMontoya/onmarket)
+    [![OnMarket](https://alexandermontoya.github.io/projects/on-market/on-market-image-1.jpg)]
 - [ManGama-Chan](https://alexandermontoya.github.io/mangama-chan/)
-    [![ManGama-Chan](https://alexandermontoya.github.io/portafolio-personal/img/mangamachan.jpg)](https://alexandermontoya.github.io/mangama-chan/)
+    [![ManGama-Chan](https://alexandermontoya.github.io/projects/mangama-chan.jpg)]
 - [PokeMontoya](https://alexandermontoya.github.io/pokemontoya/)
-    [![PokeMontoya](https://alexandermontoya.github.io/portafolio-personal/img/pokemontoyav2.jpg)](https://alexandermontoya.github.io/pokemontoya/)
-- [Advice Generator](https://alexandermontoya.github.io/advice-generator/)
-    [![Advice Generator](https://alexandermontoya.github.io/portafolio-personal/img/Advice-Generator.jpg)](https://alexandermontoya.github.io/advice-generator/)
+    [![PokeMontoya](https://alexandermontoya.github.io/projects/pokemontoya/pokemontoya-image-1.JPG)]
+- [ChatBro](https://chatbro-2023.web.app/)
+    [![ChatBro](https://alexandermontoya.github.io/projects/chatbro/chatbro-image-2.JPG)]
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlexanderMontoya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderMontoya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
